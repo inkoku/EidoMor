@@ -1,7 +1,7 @@
 # EidoMor
-多 Agent 串行产品设计系统 —— 从需求到原型，从 PRD 到交付，Multi-Agent Serial Product Design System — From Requirements to Prototype, From PRD to Delivery
+多 Agent 产品设计系统 —— 从市场分析、需求、原型、PRD，到交付，Multi-Agent Serial Product Design System — From Requirements to Prototype, From PRD to Delivery
 
-EidoMor 是一个**多 Agent 串行产品设计系统**，覆盖产品设计全生命周期（Phase 0–7），通过 8 大核心服务统筹调度，支持中英文双语界面。
+EidoMor 是一个**多 Agent 产品设计系统**，覆盖产品设计全生命周期（Phase 0–7），通过 8 大核心服务统筹调度，支持中英文双语界面。
 
 ### 核心能力
 

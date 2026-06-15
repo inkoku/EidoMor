@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/python-3.13-blue" alt="Python">
   <img src="https://img.shields.io/badge/electron-latest-brightgreen" alt="Electron">
   <img src="https://img.shields.io/badge/react-18-61dafb" alt="React">
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
+  <img src="https://img.shields.io/badge/license-Apache2.0-green" alt="License">
 </p>
 
 ---
